@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="74a53fc9-3380-470d-accd-c40a58ded266" name="qingfengpiao" url="http://qingfengpiao.cn">
+        <fileTransfer host="qingfengpiao.cn" port="21" rootFolder="/home/ubuntu/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
